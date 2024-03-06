@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "wolfgang emrich, Peter amenda, FRANK KLAUSS und torsten Pauly",
+            "title": "Hochwasser im Live-Ticker: Wetter verschärft die Lage  | News",
+            "description": "In vielen Regionen Deutschlands regnet es seit Tagen ohne Pause, die Pegel der Flüsse steigen bedrohlich! Die aktuelle Entwicklung im BILD-Liveticker.",
+            "url": "https://www.bild.de/news/inland/news-inland/hochwasser-alarm-erste-orte-werden-komplett-geraeumt-86547594.bild.html",
+            "urlToImage": "https://images.bild.de/658afa062137396f9608b9cc/2ba66654cd6c104fc8058a597d9ad99f,a99aa151?w=1280",
+            "publishedAt": "2024-01-04T05:00:43Z",
+            "content": "Viele Menschen an der Ahr sind in diesen Tagen angespannt und sorgenvoll, empfinden aber auch Mitgefühl mit den Betroffenen, die ihre Häuser verlassen müssen oder um die Stabilität der Deiche kämpfen… [+770 chars]"
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "Birthe Wenge, Robert Becker und wolfgang emrich",
+            "title": "Krieg in der Ukraine: Alle News im Live-Ticker | Politik",
+            "description": "Alle aktuellen Entwicklungen in Russland und der Ukraine lesen Sie im Live-Ticker von BILD.",
+            "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-die-aktuelle-lage-im-live-ticker-83726300.bild.html",
+            "urlToImage": "https://images.bild.de/644b966a2dffef69047a7edc/c033e747bdf8c0591021b766aacc10f8,a27e953?w=1280",
+            "publishedAt": "2024-01-04T05:00:27Z",
+            "content": "Zur Verhinderung eines Atomunfalls ist das Notstromsystem des besetzten ukrainischen Kernkraftwerks Saporischschja verbessert worden. Auf Drängen der Internationalen Atomenergiebehörde (IAEA) haben d… [+1209 chars]"
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "Birthe Wenge, Robert Becker und wolfgang emrich",
+            "title": "News Israel: Alle Infos nach dem Hamas-Terror im Live-Ticker | Politik",
+            "description": "Riesiger Terror-Angriff auf Israel! Alle aktuellen Entwicklungen lesen Sie in unserem Ticker.",
+            "url": "https://www.bild.de/politik/ausland/news-ausland/palaestinenser-terror-in-der-nacht-raketen-beschuss-auf-israel-85661094.bild.html",
+            "urlToImage": "https://images.bild.de/6520df134d6535101da967e5/aad4199156aa2e3d3e38bb5634cb9001,11d833f9?w=1280",
+            "publishedAt": "2024-01-04T05:00:17Z",
+            "content": "Nach der Tötung eines Hamas-Anführers in Beirut hat es am Mittwoch wieder Beschuss an der israelisch-libanesischen Grenze gegeben. Die mit der Hamas verbündete libanesische Schiitenmiliz Hisbollah ga… [+1174 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "9News",
+            "title": "'Awful thud': locals describe crash scene after child killed in head-on collision in Victoria - 9News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy45bmV3cy5jb20uYXUvbmF0aW9uYWwvdmljdG9yaWEtbmV3cy1vbmUtY2hpbGQtZGVhZC1maXZlLW90aGVycy1ob3NwaXRhbGlzZWQtaW4tc3RvbmVoYXZlbi1oZWFkLW9uLWNvbGxpc2lvbi85N2FkNGIwZi1lMjFmLTQyMmUtOWZhZS1iYmVhM2Y1OGM3OWLSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS85N2FkNGIwZi1lMjFmLTQyMmUtOWZhZS1iYmVhM2Y1OGM3OWI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-04T04:49:40+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Trudeau and family stayed 'at no cost' during vacation in Jamaica, PMO clarifies | CBC News",
+            "description": "Prime Minister Justin Trudeau's office is clarifying that he and his family are vacationing in Jamaica \"at no cost at a location owned by family friends,\" after initially saying the family was paying for their stay.",
+            "url": "http://www.cbc.ca/news/politics/trudeau-jamaica-trip-no-cost-1.7073998",
+            "urlToImage": "https://i.cbc.ca/1.7074003.1704338159!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trudeau-interview-20231211.JPG",
+            "publishedAt": "2024-01-04T04:07:16.2950118Z",
+            "content": "Prime Minister Justin Trudeau's office is clarifying that he and his family are vacationing in Jamaica \"at no cost at a location owned by family friends,\" after initially saying the family was paying… [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "ABC News",
+            "title": "Summernats kicks into gear with City Cruise through Canberra, as police warn hoons about huge car-seizing capacity - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTAxLTA0L3N1bW1lcm5hdHMtY2FyLWNydWlzZS1jYW5iZXJyYS1idXJub3V0cy1wb2xpY2Utd2FybmluZy8xMDMyODQyNjjSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAzMjg0MjY4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-04T03:50:44+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "Marie Sophie Krone und Michael Engelberg",
+            "title": "Verzweiflung im Flutgebiet: Kampf um die Sandsäcke | News",
+            "description": "Verzweiflung in den Hochwasser-Gebieten: Die Sandsäcke werden knapp und Diebstähle von Anwohnern häufen sich",
+            "url": "https://www.bild.de/news/inland/news-inland/verzweiflung-im-flutgebiet-kampf-um-die-sandsaecke-86622648.bild.html",
+            "urlToImage": "https://images.bild.de/65956553d774b2714ac40a3e/01b56a4859c0f92dd8176ff7fc969811,6d4de8f0?w=1280",
+            "publishedAt": "2024-01-04T03:50:22Z",
+            "content": "Der Dauerregen im deutschen Hochwasser-Gebiet ist schlimm, doch jetzt werden auch noch die Sandsäcke knapp! \r\nNiedersachsen muss auf Reserven anderer Bundesländer zurückgreifen, denn der eigene Vorra… [+1930 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Sky News",
+            "title": "Buy British push: Labelling for food imports not meeting UK welfare standards considered - Sky News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2J1eS1icml0aXNoLXB1c2gtbGFiZWxsaW5nLWZvci1mb29kLWltcG9ydHMtbm90LW1lZXRpbmctdWstd2VsZmFyZS1zdGFuZGFyZHMtY29uc2lkZXJlZC0xMzA0MTgzMdIBf2h0dHBzOi8vbmV3cy5za3kuY29tL3N0b3J5L2FtcC9idXktYnJpdGlzaC1wdXNoLWxhYmVsbGluZy1mb3ItZm9vZC1pbXBvcnRzLW5vdC1tZWV0aW5nLXVrLXdlbGZhcmUtc3RhbmRhcmRzLWNvbnNpZGVyZWQtMTMwNDE4MzE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-04T02:38:46+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "9News",
+            "title": "Judge attacked by defendant during sentencing in Vegas courtroom scene captured on video - 9News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy45bmV3cy5jb20uYXUvd29ybGQvdXNhLW5ld3MtbmV2YWRhLWp1ZGdlLWF0dGFja2VkLWJ5LWRlZmVuZGFudC1kdXJpbmctc2VudGVuY2luZy1pbi12ZWdhcy8yZGIyYjlkOS0yZmIwLTRlNWYtODI5OS1mYjQ0YjkyYWEwMDjSAUVodHRwczovL2FtcC45bmV3cy5jb20uYXUvYXJ0aWNsZS8yZGIyYjlkOS0yZmIwLTRlNWYtODI5OS1mYjQ0YjkyYWEwMDg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-04T02:14:43+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Just 7 companies drove S&P 500's growth in 2023",
+            "description": "Wall Street ended 2023 on a high note, and a group of companies known as the \"Magnificent Seven\" dominated. David Kass, professor of finance at the University of Maryland, joins CBS News to discuss if the outsized success of so few companies poses a risk to t…",
+            "url": "https://www.cbsnews.com/video/just-7-companies-drove-s-p-500s-growth-in-2023/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/f9f5231a-ddbe-4623-9018-1df6f10777bd/thumbnail/1200x630/dd19ee6e3bbc10fa559845e4a35a5a6d/mag7.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+            "publishedAt": "2024-01-04T02:14:00+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "H.R. McMaster on Iran, growing tensions in Middle East",
+            "description": "More than 100 people died Wednesday in two explosions near the grave of Qassem Soleimani in Iran. Thousands had gathered to remember the Iranian general killed in a U.S. drone strike four years ago. Retired Lt. Gen. H.R. McMaster joins CBS News to discuss Ira…",
+            "url": "https://www.cbsnews.com/video/hr-mcmaster-speaks-on-iran-explosion/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/ea51922f-cda4-4579-82c9-83a711880e33/thumbnail/1200x630/4bf4b192223f186b1e3db3d9d4e5714a/cbsn-fusion-hr-mcmaster-speaks-on-iran-explosion-thumbnail.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+            "publishedAt": "2024-01-04T02:10:00+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "google-news-sa",
+                "name": "Google News (Saudi Arabia)"
+            },
+            "author": "Sky News Arabia سكاي نيوز عربية",
+            "title": "واشنطن تعلّق على اتفاق إثيوبيا وأرض الصومال - Sky News Arabia سكاي نيوز عربية",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiQJodHRwczovL3d3dy5za3luZXdzYXJhYmlhLmNvbS93b3JsZC8xNjgyNDg3LSVEOSU4OCVEOCVBNyVEOCVCNCVEOSU4NiVEOCVCNyVEOSU4Ni0lRDglQUElRDglQjklRDklODQlRDklOTElRDklODItJUQ4JUE3JUQ4JUFBJUQ5JTgxJUQ4JUE3JUQ5JTgyLSVEOCVBNyVEOSU5NSVEOCVBQiVEOSU4QSVEOSU4OCVEOCVBOCVEOSU4QSVEOCVBNy0lRDklODglRDglQTclRDklOTQlRDglQjElRDglQjYtJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ5JTg4JUQ5JTg1JUQ4JUE3JUQ5JTg00gGNAmh0dHBzOi8vd3d3LnNreW5ld3NhcmFiaWEuY29tL2FtcC93b3JsZC8xNjgyNDg3LSVEOSU4OCVEOCVBNyVEOCVCNCVEOSU4NiVEOCVCNyVEOSU4Ni0lRDglQUElRDglQjklRDklODQlRDklOTElRDklODItJUQ4JUE3JUQ4JUFBJUQ5JTgxJUQ4JUE3JUQ5JTgyLSVEOCVBNyVEOSU5NSVEOCVBQiVEOSU4QSVEOSU4OCVEOCVBOCVEOSU4QSVEOCVBNy0lRDklODglRDglQTclRDklOTQlRDglQjElRDglQjYtJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ5JTg4JUQ5JTg1JUQ4JUE3JUQ5JTg0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-04T02:09:48+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Medical examiner rules Epstein's prison death a suicide by hanging | CBC News",
+            "description": "The New York City medical examiner ruled Jeffrey Epstein's death a suicide on Friday, confirming after nearly a week of speculation that the financier hanged himself in his jail cell.",
+            "url": "http://www.cbc.ca/news/world/medical-examiner-epstein-death-suicide-hanging-ruling-1.5250432",
+            "urlToImage": "https://i.cbc.ca/1.5216430.1565988083!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/people-jeffrey-epstein.jpg",
+            "publishedAt": "2024-01-04T02:07:14.4827179Z",
+            "content": "The New York City medical examiner ruled Jeffrey Epstein's death a suicide on Friday, confirming after nearly a week of speculation that the financier hanged himself in his jail cell.\r\nEpstein, 66, w… [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "What the shrinking House GOP majority could mean for Speaker Johnson",
+            "description": "Another Republican is leaving the House. CBS News congressional correspondent Scott MacFarlane explains what an even slimmer majority means for Speaker Mike Johnson's immigration agenda and job of funding the government.",
+            "url": "https://www.cbsnews.com/video/what-the-shrinking-house-gop-majority-could-mean-for-speaker-johnson/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/812f6042-e8cf-4216-a85f-efebcd618a41/thumbnail/1200x630/18136bd3eecd05d18977f392e3eebaae/johnson.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+            "publishedAt": "2024-01-04T02:06:00+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Several state capitols evacuated after bomb threats",
+            "description": "A series of bomb threats were made to multiple state capitols across the U.S. on Wednesday. CBS News Justice Department reporter Rob Legare explains how the FBI is responding.",
+            "url": "https://www.cbsnews.com/video/several-state-capitols-evacuated-after-threats/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/3f20c49e-efbd-4f6e-a6f1-2a944c77674a/thumbnail/1200x630/557bbbc717896d74ede92c98bf91a502/cbsn-fusion-several-state-capitols-evacuated-after-threats-thumbnail.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+            "publishedAt": "2024-01-04T02:04:00+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "East Coast braces for potential nor'easter",
+            "description": "A winter storm is developing and it could hit the East Coast as a nor'easter this weekend. CBS News senior weather producer David Parkinson has the latest forecast.",
+            "url": "https://www.cbsnews.com/video/east-coast-braces-potential-noreaster/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/04/5fcf35d2-d021-4d4c-b258-4e7c4b856dfd/thumbnail/1200x630/7143cdf267a70e8cd34313b2a51bdb23/cbsn-fusion-east-coast-braces-potential-noreaster-thumbnail.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+            "publishedAt": "2024-01-04T01:59:00+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Speaker Johnson pushes Biden to take executive action on border",
+            "description": "House Speaker Mike Johnson visited the southern border Wednesday along with more than 60 of his Republican colleagues. CBS News correspondent Omar Villafranca and CBS News chief foreign affairs correspondent and \"Face the Nation\" moderator Margaret Brennan re…",
+            "url": "https://www.cbsnews.com/video/speaker-johnson-pushes-biden-executive-action-border/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/ea009ce3-68ae-468b-a3b3-7fca77005be9/thumbnail/1200x630/a0eba43bcc222b0c638eed5b36d8355c/cbsn-fusion-speaker-johnson-pushes-biden-executive-action-border-thumbnail.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+            "publishedAt": "2024-01-04T01:56:00+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Documents from lawsuit connected to Jeffrey Epstein unsealed | CBC News",
+            "description": "Hundreds of pages of documents that are part of a lawsuit connected to accused sex-trafficker Jeffrey Epstein have started being released.",
+            "url": "http://www.cbc.ca/news/world/jeffrey-epstein-court-documents-unsealed-1.7072375",
+            "urlToImage": "https://i.cbc.ca/1.5429935.1684415072!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/people-jeffrey-epstein.jpg",
+            "publishedAt": "2024-01-04T01:52:13.4047111Z",
+            "content": "Hundreds of pages of documents that are part of a lawsuit connected to accused sex-trafficker Jeffrey Epstein have started being released.\r\nCBC News is currently reviewing the newly unsealed document… [+1239 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "ABC News",
+            "title": "Tokyo air traffic control transcript suggests only one plane had permission to be on runway before deadly Japan Airlines collision - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTAxLTA0L2phcGFuLWFpcmxpbmVzLWNyYXNoLXBlcm1pc3Npb24tdG8tbGFuZC1jb2FzdC1ndWFyZC1ub3QtY2xlYXJlZC8xMDMyODM3MDTSAShodHRwczovL2FtcC5hYmMubmV0LmF1L2FydGljbGUvMTAzMjgzNzA0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-04T01:02:16+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "CityNews Toronto",
+            "title": "Charges laid after woman struck and killed by garbage truck in St. Clair Village - CityNews Toronto",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDI0LzAxLzAzL2NoYXJnZXMtbGFpZC1hZnRlci13b21hbi1zdHJ1Y2stYW5kLWtpbGxlZC1ieS1nYXJiYWdlLXRydWNrLWluLXN0LWNsYWlyLXZpbGxhZ2Uv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-01-04T00:53:00+00:00",
+            "content": null
+        }
+    ]
+}
